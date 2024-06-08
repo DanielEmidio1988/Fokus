@@ -95,6 +95,7 @@ const contagemRegressiva = () => {
     if (tempoDecorridoEmSegundos <= 0) {
         zerar()
         const focoAtivo = html.getAttribute('data-contexto') === 'foco'
+        
         if (focoAtivo) {            
             var event = new CustomEvent("TarefaFinalizada", {
                 detail: {
