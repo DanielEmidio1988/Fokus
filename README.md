@@ -7,7 +7,7 @@ O Fokus é uma aplicação web de lista de tarefas e nela podemos selecionar, ed
 Durante este periodo busquei aprofundar os conhecimentos sobre TypeScript e a utilização em soluções Front-End.
 
 ## 🔗Link de Acesso
-- Deploy: Em breve
+- Deploy: [clique aqui!](https://fokus-rose-seven.vercel.app/)
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
